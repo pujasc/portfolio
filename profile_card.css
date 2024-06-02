@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2E2E2E;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile-card {
+    background-color: #3E3E3E;
+    color: #E1E1E1;
+    width: 90%;
+    max-width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    text-align: center;
+}
+
+.profile-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #1C1C1C;
+}
+
+.profile-image img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.greeting {
+    background-color: #FFD700;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.profile-info h1 {
+    margin: 10px 0;
+    color: #FFD700;
+}
+
+.profile-info p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.profile-details {
+    padding: 20px;
+}
+
+.detail-item {
+    margin-bottom: 10px;
+}
+
+.email-button {
+    background-color: #FFD700;
+    border: none;
+    color: #1C1C1C;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.email-button:hover {
+    background-color: #FFC107;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #1C1C1C;
+}
+
+.footer a {
+    color: #E1E1E1;
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+.footer a:hover {
+    color: #FFD700;
+}

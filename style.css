@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1E1E1E;
+    color: #CCCCCC;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 60px;
+    background-color: #333333;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    padding: 15px 0;
+}
+
+.sidebar ul li span.material-icons {
+    font-size: 24px;
+    color: #CCCCCC;
+}
+
+.main {
+    flex: 1;
+    padding: 20px;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.header p {
+    font-size: 18px;
+    color: #AAAAAA;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.start, .walkthroughs {
+    width: 45%;
+}
+
+.start h2, .walkthroughs h2 {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.start ul, .walkthroughs ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.start ul li, .walkthroughs ul li {
+    margin: 10px 0;
+}
+
+.start ul li a, .walkthroughs ul li a {
+    text-decoration: none;
+    color: #3399FF;
+}
+
+.start ul.contact li {
+    color: #AAAAAA;
+    font-size: 14px;
+}

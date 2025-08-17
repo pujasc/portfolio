@@ -1,61 +1,62 @@
 # PUJA SINGH
 Bangalore, India • +91-7048578204 • chandelsinghpuja@gmail.com • [LinkedIn](linkedin.com/in/puja-singh-chandel)
 
-Google-certified Cloud Architect with 6+ years of experience in engineering high-performance data pipelines with GCP and Python, enhancing data processing efficiency and ensuring data quality standards through rigorous ETL processes and precise data modeling.
+Google-certified Cloud Architect with 7+ years of experience in engineering high-performance data pipelines with GCP and Python, enhancing data processing efficiency and ensuring data quality standards through rigorous ETL processes and precise data modeling.
 
 ## PROFESSIONAL EXPERIENCE
 
 ### Accenture, Bangalore 
 **Data Engineer** (2022 – Present)  
-Client: Search Engine Company – Global Network Delivery Team | Role - Data Engineer
+**Global Technology Company – Network Infrastructure Team** *(2024 - Present)*
+- Implementing Azure DevOps CI/CD pipelines for Snowflake data warehouse deployments, improving deployment reliability and reducing manual errors
+- Designed and automated data pipeline deployments using Infrastructure as Code principles
+- Enhanced data delivery processes through modern DevOps practices and cloud-native solutions
 
-- Worked with various teams to meet diverse reporting and analytics requirements, overseeing the process from proposal to facility handoff.
-- Independently created 6 PLX Dashboards to improve data accessibility and insights, resulting in an average reduction of 35 weeks in facility handoff delivery time.
+**Global Technology Company – Network Delivery Team** *(2022 - 2024)*
+- Collaborated with cross-functional teams to fulfill diverse reporting and analytics requirements from proposal to delivery
+- Independently developed 6 real-time business intelligence dashboards, enhancing data accessibility and reducing project delivery time by 35 weeks on average
+- Implemented automated reporting solutions that streamlined decision-making processes
 
-Client: Search Engine Company – Ads Team | Role - Data Engineer
+**Global Technology Company – Advertising Platform Team**
+- Led migration of legacy business systems to high-performance distributed database architecture for advertising operations
+- Managed end-to-end migration of 50+ partner integrations, restructuring 1,100+ data fields, 700+ transformation rules, and 200+ custom processing functions across 100+ business partners
+- Achieved performance benchmarks of 100K+ daily support cases with 1-minute SLA at 90th percentile and 100M+ daily user interactions with 15-minute freshness SLA
 
-- Led the restructuring of legacy business functionality to F1 lightning database engine for Ads Team, resulting in streamlined partner business logic.
-- Managed migration of 50+ Google partners' PLX scripts, rewriting 1100 raw fields, 700 Tangle fields, and 200 RVL functions for 100+ partners.
-- Achieved key metrics of 100K+ daily cases for one-to-one support with freshness SLO of 1min at 90th percentile and 100M+ daily user visits to Google's support properties with freshness SLO of 15mins at 90th percentile.
+**Consumer Electronics Manufacturer – Lead Data Consultant**
+- Spearheaded requirements gathering and stakeholder management across client and third-party vendor ecosystems
+- Architected streamlined data capture processes for manufacturing supply chain optimization
+- Led cross-functional team of 2 data engineers and 1 visualization developer to implement scalable data models and ingestion pipelines using BigQuery, enabling comprehensive business intelligence reporting
 
-Client: Household Appliance Manufacturer | Role – Lead Consultant
+### **Deloitte, Mumbai** | *2018 – 2021*
+**Consultant**
 
-- Spearheaded requirement gathering efforts, collaborating with clients and third-party vendors at Dyson RTC.
-- Orchestrated the development of streamlined data capture processes at client's third-party vendors.
-- Directed and led a team of 2 data engineers and Looker developers to implement data models, as well as data ingestion pipelines using BigQuery, facilitating efficient Looker based reporting.
+**Transportation Authority – Data Platform Engineer**
+- Designed and implemented ETL solutions for real-time data ingestion from distributed IoT sensors using Cloud Functions, Data Fusion, and serverless computing
+- Engineered custom monitoring and alerting system with real-time notifications using event-driven architecture
+- Built comprehensive audit and error handling framework using pub-sub messaging and automated recovery mechanisms
 
-### Deloitte, Mumbai 
-**Consultant** (2018 – 2021)  
-Client Industry - State Mobility Authority | Role - Data Engineer
+**Electronics Manufacturing – NLP Solutions Developer**
+- Developed intelligent text clustering algorithms to automate Bill of Materials (BOM) processing, reducing manual effort by 15+ hours monthly
+- Implemented machine learning models for document classification and data extraction
 
-- Conceptualized, designed, and implemented ETL solutions to ingest data from various roadside vendors using Cloud Function, Data Fusion, and Cloud Run service.
-- Engineered the custom record-level alert mechanism of the entire solution using Cloud Function, Cloud Logging, and Monitoring. Created custom Audit/Error Handling Solution using Pub-Sub, Cloud Function, and Data Fusion CDAP endpoint.
+**Internal R&D Team – Analytics Consultant**
+- Evaluated technology investment opportunities and growth strategies across 40+ enterprise clients
+- Built hierarchical text classification system using advanced machine learning techniques, achieving 88% accuracy and eliminating 70+ hours of manual analysis
 
-Client Industry - Electronics Manufacturer | Role – NLP Developer
+**Government Healthcare Integration – Data Analyst**
+- Led data migration and validation strategies for unified healthcare platform serving multiple state benefit programs
+- Performed comprehensive data profiling and gap analysis to ensure seamless system integration
+- Developed business intelligence reports and dashboards for stakeholder decision-making
 
-- Created a text-based clustering script to retrieve EBOM from provided MBOM Files using Kmeans that saved 15+ manual hours monthly.
+**Consumer Goods Manufacturing – Software Developer**
+- Established centralized data lake architecture for enhanced demand forecasting and supply chain optimization
+- Automated cloud infrastructure scaling and documentation processes, saving 20+ hours of operational overhead
+- Created executive-level data visualizations and reporting solutions
 
-Client Industry – Deloitte R&A Team | Role – NLP Developer
-
-- Evaluated analytics investment viability and business growth across domains for 40+ companies.
-- Developed hierarchical text classification model using stochastic gradient descent with 88% accuracy, saving 70 hours of manual text analysis.
-
-Client Industry - Government & Public Services Sector | Role - Analyst
-
-- The project provides a unified solution to merge the existing healthcare system along with other state benefits programs as one.
-- Worked on Data Migration, Conversion strategies and Tableau based Reports Validation.
-- Utilized data analysis, profiling, and other analytics techniques to answer ad-hoc business questions as well as provide insight into potential gaps across different programs.
-
-Client Industry - Alcohol Manufacturer | Role – Software Developer
-
-- Contributed to central "Data Lake" for enhanced demand forecasting.
-- Automated HDInsight cluster scaling and lineage document creation, saving 20 hours of manual work.
-- Chartered infographics to enhance reporting services using Power BI.
-
-### PlexusMD, Ahmedabad 
-**Machine Learning Intern** (June 2017)
-
-- Built a Tag Recommendation system using NLP and Linear SVM to predict the specialty/medical domain for user posts and deployed it as an AWS Lambda function.
+### **PlexusMD, Ahmedabad** | *June 2017*
+**Machine Learning Intern**
+- Built intelligent recommendation system using Natural Language Processing and Support Vector Machines
+- Deployed machine learning models as scalable cloud functions for real-time predictions
 
 ## EDUCATION
 
@@ -66,11 +67,20 @@ Client Industry - Alcohol Manufacturer | Role – Software Developer
 
 ## TECHNICAL SKILLS
 
-- **Cloud:** Vertex AI, BigQuery, Cloud Functions, Data Fusion, Cloud Storage, Cloud SQL, Cloud Logging and Alerting, Cloud Run, Kubeflow, Docker
-- **DB:** PostgreSQL, MS SQL Server, F1
-- **Languages:** Python, Java, SQL, Appscript, Unix Shell Scripting
-- **Other Tools:** Elasticsearch, Kibana, UiPath, Git, ML & NLP Algorithm
-- **Data Visualization tools:** Looker, Qlik & PLX dashboards
+**Cloud Platforms:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions, Data Fusion, Cloud Storage, Cloud SQL, Cloud Run, Kubeflow), Microsoft Azure (DevOps, Data Factory, Synapse, Storage)
+
+**Data Platforms:** Snowflake, PostgreSQL, MS SQL Server, Distributed Database Systems
+
+**Programming Languages:** Python, Java, SQL, JavaScript, Unix Shell Scripting, YAML
+
+**DevOps & Tools:** Azure DevOps, Docker, Kubernetes, Git, CI/CD Pipelines, Infrastructure as Code
+
+**Data Engineering:** ETL/ELT, Data Modeling, Pipeline Orchestration, Data Quality Management
+
+**Analytics & Visualization:** Looker, Power BI, Tableau, Custom Dashboard Development
+
+**Machine Learning:** Scikit-learn, TensorFlow, Natural Language Processing, Statistical Modeling
+
 
 ## CERTIFICATIONS
 
